@@ -1,0 +1,11 @@
+﻿  Building Attempt7Editor...
+  Using Visual Studio 2019 14.27.29110 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] PawnPiece.cpp
+    [2/4] UE4Editor-Attempt7-0025.lib
+       Creating library C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\UE4Editor-Attempt7-0025.lib and object C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\UE4Editor-Attempt7-0025.exp
+    [3/4] UE4Editor-Attempt7-0025.dll
+       Creating library C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\UE4Editor-Attempt7-0025.suppressed.lib and object C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\UE4Editor-Attempt7-0025.suppressed.exp
+    [4/4] Attempt7Editor.target
+  Total time in Parallel executor: 1.02 seconds
+  Total execution time: 1.51 seconds

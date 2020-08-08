@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Attempt7.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C504066F-93AE-492C-AD12-2082E2B745C4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Attempt7.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Attempt7Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{66FDC03B-9F15-4DCE-895C-3995899FB8E8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Attempt7">
+      <UniqueIdentifier>{91322892-49E6-4136-91CA-D6E8A20BD3D1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Attempt7\Attempt7.Build.cs">
+      <Filter>Source\Attempt7</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Attempt7\Attempt7.cpp">
+      <Filter>Source\Attempt7</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Attempt7\Attempt7.h">
+      <Filter>Source\Attempt7</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Attempt7\Attempt7GameModeBase.cpp">
+      <Filter>Source\Attempt7</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Attempt7\Attempt7GameModeBase.h">
+      <Filter>Source\Attempt7</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Attempt7\BoardTileActor.cpp">
+      <Filter>Source\Attempt7</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Attempt7\BoardTileActor.h">
+      <Filter>Source\Attempt7</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Attempt7\ChessBoard.cpp">
+      <Filter>Source\Attempt7</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Attempt7\ChessBoard.h">
+      <Filter>Source\Attempt7</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Attempt7\ChessPiece.cpp">
+      <Filter>Source\Attempt7</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Attempt7\ChessPiece.h">
+      <Filter>Source\Attempt7</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Attempt7\PawnPiece.cpp">
+      <Filter>Source\Attempt7</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Attempt7\PawnPiece.h">
+      <Filter>Source\Attempt7</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

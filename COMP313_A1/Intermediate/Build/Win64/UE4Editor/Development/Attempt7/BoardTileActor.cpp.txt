@@ -1,0 +1,3 @@
+C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\Definitions.Attempt7.h
+C:\Users\hughm\Documents\Unreal Projects\Attempt7\Source\Attempt7\BoardTileActor.h
+C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Inc\Attempt7\BoardTileActor.generated.h

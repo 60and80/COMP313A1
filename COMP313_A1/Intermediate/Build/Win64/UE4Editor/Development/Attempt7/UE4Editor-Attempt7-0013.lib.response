@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Attempt7-0013.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\Attempt7Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\Attempt7.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\Attempt7GameModeBase.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\BoardTileActor.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\ChessBoard.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\ChessPiece.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\PawnPiece.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\Attempt7.init.gen.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\Attempt7GameModeBase.gen.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\BoardTileActor.gen.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\ChessBoard.gen.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\ChessPiece.gen.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\PawnPiece.gen.cpp.obj"
+"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\Default.rc2.res"
+/OUT:"C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\UE4Editor-Attempt7-0013.lib"
+/INCLUDE:IMPLEMENT_MODULE_Attempt7

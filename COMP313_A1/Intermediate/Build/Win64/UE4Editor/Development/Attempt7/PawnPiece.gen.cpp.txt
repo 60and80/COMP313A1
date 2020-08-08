@@ -1,0 +1,7 @@
+C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Development\Attempt7\Definitions.Attempt7.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\hughm\Documents\Unreal Projects\Attempt7\Source\Attempt7/PawnPiece.h
+C:\Users\hughm\Documents\Unreal Projects\Attempt7\Source\Attempt7\ChessPiece.h
+C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Inc\Attempt7\ChessPiece.generated.h
+C:\Users\hughm\Documents\Unreal Projects\Attempt7\Intermediate\Build\Win64\UE4Editor\Inc\Attempt7\PawnPiece.generated.h

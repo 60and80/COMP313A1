@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Attempt7",
+			"Path": "C:\\Users\\hughm\\Documents\\Unreal Projects\\Attempt7\\Source\\Attempt7.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Attempt7Editor",
+			"Path": "C:\\Users\\hughm\\Documents\\Unreal Projects\\Attempt7\\Source\\Attempt7Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
